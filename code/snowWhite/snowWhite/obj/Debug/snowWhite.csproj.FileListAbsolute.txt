@@ -1,0 +1,5 @@
+C:\Users\student\Soumya\code\snowWhite\snowWhite\bin\Debug\snowWhite.exe.config
+C:\Users\student\Soumya\code\snowWhite\snowWhite\bin\Debug\snowWhite.exe
+C:\Users\student\Soumya\code\snowWhite\snowWhite\bin\Debug\snowWhite.pdb
+C:\Users\student\Soumya\code\snowWhite\snowWhite\obj\Debug\snowWhite.exe
+C:\Users\student\Soumya\code\snowWhite\snowWhite\obj\Debug\snowWhite.pdb
