@@ -1,0 +1,6 @@
+C:\Users\student\Soumya\code\dictionaryExercise\dictionaryExercise\bin\Debug\dictionaryExercise.exe.config
+C:\Users\student\Soumya\code\dictionaryExercise\dictionaryExercise\obj\Debug\dictionaryExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Soumya\code\dictionaryExercise\dictionaryExercise\bin\Debug\dictionaryExercise.exe
+C:\Users\student\Soumya\code\dictionaryExercise\dictionaryExercise\bin\Debug\dictionaryExercise.pdb
+C:\Users\student\Soumya\code\dictionaryExercise\dictionaryExercise\obj\Debug\dictionaryExercise.exe
+C:\Users\student\Soumya\code\dictionaryExercise\dictionaryExercise\obj\Debug\dictionaryExercise.pdb

@@ -1,0 +1,79 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace methodsExercise
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Please enter two numbers you want to perform an arithmetic function to");
+            Console.WriteLine("Numer 1: ");
+            double firstNumber = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Numer 2: ");
+            double secondNumber = Convert.ToDouble(Console.ReadLine());
+            double result = 0;
+            Console.WriteLine("Please select an arithmetic operator : ");
+            char sign = Convert.ToChar(Console.ReadLine());
+
+            switch (sign)
+            {
+                case '+':
+                    result = PerformAddition(firstNumber, secondNumber);
+                    break;
+
+                case '-':
+                    result = PerformSubtraction(firstNumber, secondNumber);
+                    break;
+
+                case '*':
+                    result = PerformMultiplication(firstNumber, secondNumber);
+
+                    break;
+
+                case '/':
+                    result = PerformDivision(firstNumber, secondNumber);
+                    break;
+
+                default: Console.WriteLine("You didn't enter a valid sign");
+
+                    break;
+
+
+            }
+
+            Console.WriteLine(firstNumber + " " + sign + " " + secondNumber + "=" + result);
+        }
+
+        static double PerformAddition ( double firstNum, double secondNum)
+        {
+            double addition = firstNum + secondNum;
+
+            return addition;
+        }
+
+        static double PerformSubtraction(double firstNum, double secondNum)
+        {
+            double subtraction = firstNum - secondNum;
+
+            return subtraction;
+        }
+
+        static double PerformMultiplication(double firstNum, double secondNum)
+        {
+            double multiplication = firstNum * secondNum;
+
+            return multiplication;
+        }
+
+        static double PerformDivision(double firstNum, double secondNum)
+        {
+            double division = firstNum / secondNum;
+
+            return division;
+        }
+    }
+}

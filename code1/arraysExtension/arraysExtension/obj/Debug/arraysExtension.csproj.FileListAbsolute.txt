@@ -1,0 +1,6 @@
+C:\Users\student\Soumya\code\arraysExtension\arraysExtension\bin\Debug\arraysExtension.exe.config
+C:\Users\student\Soumya\code\arraysExtension\arraysExtension\bin\Debug\arraysExtension.exe
+C:\Users\student\Soumya\code\arraysExtension\arraysExtension\bin\Debug\arraysExtension.pdb
+C:\Users\student\Soumya\code\arraysExtension\arraysExtension\obj\Debug\arraysExtension.csprojResolveAssemblyReference.cache
+C:\Users\student\Soumya\code\arraysExtension\arraysExtension\obj\Debug\arraysExtension.exe
+C:\Users\student\Soumya\code\arraysExtension\arraysExtension\obj\Debug\arraysExtension.pdb
